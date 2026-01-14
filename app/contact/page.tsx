@@ -31,7 +31,7 @@ export default function ContactPage() {
                             Get in Touch
                         </h1>
                         <p className="text-[#A0A0A0] text-lg md:text-xl max-w-2xl mx-auto">
-                            Have a question or want to learn more? We'd love to hear from you.
+                            We&apos;d love to hear from you. Have a question or want to learn more?
                         </p>
                     </div>
                 </section>

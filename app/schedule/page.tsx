@@ -91,7 +91,7 @@ export default function SchedulePage() {
                             Find Your Class
                         </h2>
                         <p className="text-[#A0A0A0] text-lg mb-8">
-                            Not sure which class is right for you? Start with our $10 trial and we'll help you find your level.
+                            Not sure which class is right for you? Start with our $10 trial and we&apos;ll help you find your level.
                         </p>
                         <PrimaryButton text="Start for $10" href="/classes" />
                     </div>

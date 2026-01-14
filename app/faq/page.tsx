@@ -35,7 +35,7 @@ export default function FAQPage() {
                             Still Have Questions?
                         </h2>
                         <p className="text-[#A0A0A0] text-lg mb-8">
-                            Can't find what you're looking for? Reach out and we'll be happy to help.
+                            Can&apos;t find what you&apos;re looking for? Reach out and we&apos;ll be happy to help.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a
