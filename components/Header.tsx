@@ -36,7 +36,7 @@ export default function Header() {
                                 alt="BSO Latin Dance"
                                 width={140}
                                 height={64}
-                                className="h-12 w-auto"
+                                className="h-12 w-auto mix-blend-screen"
                                 priority
                             />
                         </Link>
